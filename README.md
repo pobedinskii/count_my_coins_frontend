@@ -1,4 +1,4 @@
-# count_your_coins_frontend
+# Монетосчитатель
 
 ## Project setup
 ```
